@@ -1,0 +1,66 @@
+
+
+Grau-NomeDoCarro-Power(PS/rpm)-Torque(kgm/rpm)
+2-Age Erriso            80/6200   7.1/2600
+Tunagem 1 = 11.300     130/6500  10.5/3000
+Tunagem 2 = 70.500     160/5800  12.8/3500
+Tunagem 3 = 361.500    190/6000  15.5/4000
+
+2-Lizard Acceron       150/5000  36.2/2800
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+3-Age Abeille           99/6700   8.8/3500
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+3-Lizard Baonet        200/5000  38.1/3600
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+3-Assoluto Fatalita    255/8000  28.6/6600
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+4MT-Age Pegase         160/7200  15.2/6600
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+4MT-Lizard Hijack      340/5700  42.6/4500
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+4MT-Assoluto Istante   380/7500  47.1/7000
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+5MT-Assoluto Ghepardo  650/9000  60.0/6200
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+?-Age Vainqure         365/7300  39.3/4800
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+?MT-Lizard Bulldog     800/6700 105.0/4000
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+?MT-Assoluto Squalidon 980/12000 88.1/5800
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
+
+Tunagem 1 = 
+Tunagem 2 = 
+Tunagem 3 = 
